@@ -1,0 +1,24 @@
+[
+	{
+		"name": "Korean People's Army",
+		"unitType": "Gunpowder",
+		"uniqueTo": "North Korea",
+		"replaces": "Infantry",
+		"movement": 2,
+		"strength": 65,
+		"cost": 375,
+		"requiredTech": "Plastics",
+		"upgradesTo": "Mechanized Infantry",
+		"obsoleteTech": "Mobile Tactics",
+		"promotions": ["Discipline", "Charge"],
+		"uniques": []
+	},{
+		"name": "Great Leader Comrade",
+		"unitType": "Civilian",
+		"uniqueTo": "North Korea",
+		"replaces": "Great General",
+		"movement": 2,
+		"promotions": ["Teleport"],
+		"uniques": ["[+20]% Strength bonus for [Military] units within [1] tiles", "[+50]% Strength bonus for [Military] units within [0] tiles", "Great Person - [War]", "Can instantly construct a [Mine] improvement", "Gain [1000]-[3000] [Gold] <by consuming this unit>", "Uncapturable", "Unbuildable"]
+	}
+]

@@ -1,0 +1,9 @@
+[
+	{
+		"name": "Discipline",
+		"uniques": ["[+10]% Strength bonus for [Military] units within [1] tiles"]
+	},{
+		"name": "Teleport",
+		"uniques": ["[+1912] Movement"]
+	}
+]
