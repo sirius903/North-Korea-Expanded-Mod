@@ -1,4 +1,4 @@
-# North-Korea-Expanded-Mode(북한 확장 모드)
+# North-Korea-Expanded-Mod(북한 확장 모드)
 Expanded Mod of North Korea Mod(with Korean People's Army and Great Leader Comrade)
 
 Necessary Mod: https://github.com/sirius903/North-Korea-Mod
